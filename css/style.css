@@ -1,0 +1,30 @@
+
+.container{
+    justify-content: center;
+}
+
+/* #collapsibleNavId{
+    justify-content: center;
+} */
+
+#collapsibleNavId{
+    width: 30px;
+}
+
+
+.parrafo{
+    display: flex;
+    justify-content: center;
+    font-size: 30;
+    margin-top: 20px;
+}
+
+.galeria img{
+    width: 100%;
+}
+
+.card-size{
+    width: 250px;
+    height: 300px;
+    margin: 5px;
+}
